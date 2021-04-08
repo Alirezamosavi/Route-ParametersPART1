@@ -5,7 +5,9 @@ LINK VIDEO:
 https://youtu.be/5ASt6NzpqFs
 
 How to use Route Parameters with Laravel 8?this part= Optional parameters(PART 2)
+
 Video link
+
 https://youtu.be/4M_1q_RLxo0
 
 
